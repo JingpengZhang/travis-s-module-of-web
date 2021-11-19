@@ -11,6 +11,7 @@
 该模块实现了一个有轮播效果的展示列表，可以设置每次显示的项数，以及其他的一些配置项。
 #### （1）配置说明
 **①TravisSlideShow(slideShowContainer,slideShowWindow,slideShow,left,right)**
+
 |参数|说明|备注|
 |---|---|
 |slideShowContainer|最外层容器的id或class|该容器用于模块的定位|
