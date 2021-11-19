@@ -17,3 +17,5 @@
 |slideShowContainer|最外层容器的id或class|该容器用于模块的定位|
 |slideShowWindow|第二层容器的id或class|该容器用于遮盖暂未显示的项目|
 |slideShow|列表的id或class|这里的列表是指存放li的ul|
+|left|左箭头的id或class|这里的左箭头是指切换箭头的上一项箭头|
+|right|右箭头的id或class|这里的右箭头是指切换箭头的下一项箭头|
