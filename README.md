@@ -13,7 +13,7 @@
 **①TravisSlideShow(slideShowContainer,slideShowWindow,slideShow,left,right)**
 
 |参数|说明|备注|
-|---|---|
+|---|---|---|
 |slideShowContainer|最外层容器的id或class|该容器用于模块的定位|
 |slideShowWindow|第二层容器的id或class|该容器用于遮盖暂未显示的项目|
 |slideShow|列表的id或class|这里的列表是指存放li的ul|
