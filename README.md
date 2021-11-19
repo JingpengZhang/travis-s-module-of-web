@@ -10,7 +10,7 @@
 ### 1. TravisSlideShow（轮播展示项）
 该模块实现了一个有轮播效果的展示列表，可以设置每次显示的项数，以及其他的一些配置项。
 #### （1）配置说明
-**①TravisSlideShow(slideShowContainer,slideShowWindow,slideShow,left,right)**
+**①TravisSlideShow( slideShowContainer, slideShowWindow, slideShow, left, right)**
 
 |参数|说明|备注|
 |---|---|---|
